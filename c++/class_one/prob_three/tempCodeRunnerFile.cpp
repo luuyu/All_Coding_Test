@@ -1,0 +1,1 @@
+Company c1("Company A");
